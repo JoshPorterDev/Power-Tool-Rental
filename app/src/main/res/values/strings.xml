@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PowerToolRental</string>
+    <string name="numberDaysTextName">Number of days</string>
+    <string name="radioButton1Text">Power Washer</string>
+    <string name="radioButton2Text">Tiller</string>
+    <string name="buttonText">Calculate cost</string>
+    <string-array name="spinnerChoices">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string name="totalCostText">Total cost: $%.2f</string>
+</resources>
